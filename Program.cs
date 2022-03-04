@@ -9,9 +9,9 @@ namespace snakeandladder
         {
             //startposition.start_position();
 
-            randomnumber.dice();
+            //randomnumber.dice();
 
-            // ladderorsnake.opition();
+            ladderorsnake.opition();
 
             //playerposition.position();
         }
