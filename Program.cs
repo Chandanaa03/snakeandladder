@@ -9,11 +9,11 @@ namespace snakeandladder
         {
             //startposition.start_position();
 
-            //randomnumber.dice();
+            randomnumber.dice();
 
             // ladderorsnake.opition();
 
-            playerposition.position();
+            //playerposition.position();
         }
     }
 }
